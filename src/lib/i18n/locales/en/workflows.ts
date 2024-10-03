@@ -227,7 +227,7 @@ export const Strings = {
   'archival-link-preface': 'To enable ',
   'archival-link': 'archival visibility',
   'archival-disabled-title':
-    'This namespace is currently not enabled for archival.',
+    'This namespace is currently not enabled for Walmart.',
   'archival-disabled-details':
     'Run this command to enable archival visibility for event histories',
   'archival-empty-state-description':

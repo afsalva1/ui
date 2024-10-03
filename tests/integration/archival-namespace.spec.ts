@@ -21,7 +21,7 @@ test.describe('Archival - Archival disabled', () => {
     await mockNamespaceApi(page, archived);
     await page.goto(archivalWorkflowsUrl);
     const title = await page.getByTestId('archived-disabled-title').innerText();
-    expect(title).toBe('This namespace is currently not enabled for archival.');
+    expect(title).toBe('This namespace is currently not enabled for Walmart.');
   });
 });
 
